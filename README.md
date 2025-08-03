@@ -11,9 +11,10 @@
         title="Inscreva-se no meu canal" 
         src="https://custom-icon-badges.demolab.com/badge/Youtube-df0026?logo=youtube&logoColor=white&style=for-the-badge"/></a>
         <a href="https://www.linkedin.com/in/leozituw/">
-        <img alt="Linkedin"
-        title="Siga-me no Linkedin"
-        src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=follow&logoColor=white&style=for-the-badge"/>
+        <img alt="Linkedin" 
+        title="Siga-me no Linkedin" 
+        src="https://custom-icon-badges.demolab.com/badge/Linkedin-0A66C2?logo=follow&logoColor=white&style=for-the-badge"/></a>        
+        </a>
         <a href="https://github.com/Leozituw">
         <img alt="GitHub" 
         title="Siga-me no GitHub" 
