@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Leonardo Mendes
+# 👨🏻‍💻 Olá, eu me chamo Leonardo!
 
 **`Desenvolvedor FullStack`**
 
@@ -22,10 +22,9 @@
     </a>
 </p>
 
----
-
 ## ⚡ Tecnologias
-<div>
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTE2MjEzaHpkbXE5ZXZuNHh5b2hkeDN0ZDZjaGowb2c3OGdva3djMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2HWZYb4StLw99NXl2u/giphy.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"> 
 
 ### 💻 Linguagens
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py)](https://skillicons.dev)
@@ -36,15 +35,21 @@
 ### 🛠️ Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=vscode,gamemakerstudio,git,github,figma,kali)](https://skillicons.dev)
 
-</div>
-
 ## 📊 Estatísticas
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leozituw/Leozituw/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leozituw/Leozituw/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Leozituw/Leozituw/output/pacman-contribution-graph.svg">
+</picture>
+
+---
 
 <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="200px"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Leozituw&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -52,7 +57,7 @@
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="200px"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leozituw&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
