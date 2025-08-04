@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-👋 Olá! Me chamo Leonardo Mendes, tenho 23 anos e sou do Rio Grande do Norte, Brasil. Atualmente estudo <strong>Desenvolvimento Fullstack</strong> pelo curso da Rocketseat. Também me aventuro no mundo de <strong>GameDev e Cybersecurity</strong>. Me interesso bastante por tecnologia e criação, e por isso criei um canal no YouTube chamado <strong>"[Leozituw](https://www.youtube.com/@Leozituw)"</strong>, onde compartilho vídeos do meu processo de desenvolvimento de um jogo no GameMaker.
+👋 Olá! Me chamo Leonardo Mendes, tenho 23 anos e sou do Rio Grande do Norte, Brasil. Atualmente estudo <strong>Desenvolvimento Fullstack</strong> pelo curso da Rocketseat. Também me aventuro no mundo de <strong>GameDev e Cybersecurity</strong>. Me interesso bastante por tecnologia e criação, e por isso criei um canal no YouTube chamado [Leozituw](https://www.youtube.com/@Leozituw), onde compartilho vídeos do meu processo de desenvolvimento de um jogo no GameMaker.
 
 <p align="left">
     <a href="https://www.youtube.com/@Leozituw?sub_confirmation=1">
@@ -24,95 +24,21 @@
 
 ---
 
-### ⚡ Linguagens e Tecnologias
+## ⚡ Tecnologias
+<div>
 
-<p>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img
-    align="left" 
-    alt="Kali-Linux" 
-    title="Kali-Linux"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" 
-/>          
-</p>
+### 💻 Linguagens
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py)](https://skillicons.dev)
 
-</br>
-</br>
+### 🚀 Frameworks e bibliotecas
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind)](https://skillicons.dev)
 
-### 📊 Estatísticas
+### 🛠️ Ferramentas
+[![My Skills](https://skillicons.dev/icons?i=vscode,gamemakerstudio,git,github,figma,kali)](https://skillicons.dev)
+
+</div>
+
+## 📊 Estatísticas
 
 <p>
   <img 
