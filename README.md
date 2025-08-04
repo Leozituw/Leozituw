@@ -50,26 +50,14 @@
 
 ## 📧 Contatos
 <p align="left">
-    <a href="">
-        <img 
-        alt="Canal no Youtube" 
-        title="Inscreva-se no meu canal" 
-        src="https://custom-icon-badges.demolab.com/badge/Youtube-df0026?logo=youtube&logoColor=white&style=for-the-badge"/></a>
-        <a href="https://www.linkedin.com/in/leozituw/">
-        <img alt="Linkedin" 
-        title="Siga-me no Linkedin" 
-        src="https://custom-icon-badges.demolab.com/badge/Linkedin-0A66C2?logo=follow&logoColor=white&style=for-the-badge"/></a>        
-        </a>
-        <a href="https://github.com/Leozituw">
-        <img alt="GitHub" 
-        title="Siga-me no GitHub" 
-        src="https://custom-icon-badges.demolab.com/badge/Github-252440?logo=repo-forked&logoColor=white&style=for-the-badge"/></a>        
-    </a>
-
-**`Email: by.leozituw@gmail.com`**
-    
+  <a href="https://www.youtube.com/@Leozituw?sub_confirmation=1">
+  <img src="https://img.shields.io/badge/-Youtube-FF0000?logo=youtube&logoColor=white&logoWidth=38" title="Meu canal" alt="Youtube"/></a>
+  <a href="https://www.linkedin.com/in/leozituw/">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?logo=linkedin&logoColor=white&logoWidth=38" title="Meu Linkedin" alt="Linkedin"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=by.leozituw@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-ea4335?logo=gmail&logoColor=white&logoWidth=38" title="Meu Gmail" alt="Gmail"/></a>
 </p>
 
-<a href="https://www.youtube.com/@Leozituw?sub_confirmation=1">
-<img src="https://img.shields.io/badge/-Youtube-FF0000?logo=youtube&logoColor=white&logoWidth=38"/>
+
+
 
