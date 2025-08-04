@@ -51,7 +51,7 @@
 ## 📧 Contatos
 <p align="left">
   <a href="https://www.youtube.com/@Leozituw?sub_confirmation=1">
-  <img src="https://img.shields.io/badge/-Youtube-FF0000?logo=youtube&logoColor=white&logoWidth=38" title="Meu canal" alt="Youtube"/></a>
+  <img src="https://img.shields.io/badge/-Youtube-FF0000?logo=youtube&logoColor=white&logoWidth=38" title="Meu Canal" alt="Youtube"/></a>
   <a href="https://www.linkedin.com/in/leozituw/">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?logo=linkedin&logoColor=white&logoWidth=38" title="Meu Linkedin" alt="Linkedin"/></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=by.leozituw@gmail.com">
