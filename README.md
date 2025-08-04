@@ -17,7 +17,17 @@
 ### 🛠️ Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=vscode,gamemakerstudio,git,github,figma,kali)](https://skillicons.dev)
 
-## 📊 Estatísticas
+---
+
+### 📚 Meu desenvolvimento
+
+<p height="200px">
+Este é o espaço onde compartilho o que venho aprendendo desde estudos iniciais até projetos que estou desenvolvendo por conta própria. Gosto de experimentar novas tecnologias, aprender com os erros e documentar meu progresso por aqui. Fique à vontade para explorar, deixar sugestões ou feedbacks.
+</p>
+
+---
+
+### 👾 Meu Status
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leozituw/Leozituw/output/pacman-contribution-graph-dark.svg">
@@ -58,6 +68,5 @@
   <img src="https://img.shields.io/badge/-Gmail-ea4335?logo=gmail&logoColor=white&logoWidth=38" title="Meu Gmail" alt="Gmail"/></a>
 </p>
 
-
-
+  **`< by.leozituw@gmail.com >`**
 
