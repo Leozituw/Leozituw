@@ -6,8 +6,6 @@
 
 ## ⚡ Tecnologias
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTE2MjEzaHpkbXE5ZXZuNHh5b2hkeDN0ZDZjaGowb2c3OGdva3djMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2HWZYb4StLw99NXl2u/giphy.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"> 
-
 ### 💻 Linguagens
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py)](https://skillicons.dev)
 
@@ -16,6 +14,8 @@
 
 ### 🛠️ Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=vscode,gamemakerstudio,git,github,figma,kali)](https://skillicons.dev)
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTE2MjEzaHpkbXE5ZXZuNHh5b2hkeDN0ZDZjaGowb2c3OGdva3djMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2HWZYb4StLw99NXl2u/giphy.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"> 
 
 ---
 
