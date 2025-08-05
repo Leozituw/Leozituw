@@ -21,8 +21,8 @@
 
 ### 📚 Meu desenvolvimento
 
-<p height="200px">
-Este é o espaço onde compartilho o que venho aprendendo desde estudos iniciais até projetos que estou desenvolvendo por conta própria. Gosto de experimentar novas tecnologias, aprender com os erros e documentar meu progresso por aqui. Fique à vontade para explorar, deixar sugestões ou feedbacks.
+<p>
+Aqui eu compartilho o que venho aprendendo, desde os primeiros estudos até os projetos que estou criando por conta própria. Curto testar novas tecnologias, aprender na prática e deixar tudo registrado por aqui. Sinta-se livre pra explorar, mandar sugestões ou dar um feedback.
 </p>
 
 ---
